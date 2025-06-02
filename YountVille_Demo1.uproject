@@ -27,5 +27,11 @@
 			"Name": "Text3D",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Linux",
+		"LinuxArm64",
+		"Windows",
+		"Mac"
 	]
 }
