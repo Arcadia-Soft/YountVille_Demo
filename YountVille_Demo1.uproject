@@ -35,14 +35,11 @@
 			]
 		},
 		{
-			"Name": "RawInput",
-			"Enabled": true
+			"Name": "Fab",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
-		"Linux",
-		"LinuxArm64",
-		"Windows",
-		"Mac"
+		"Windows"
 	]
 }
