@@ -1,3 +1,5 @@
-# YountVille_Demo1
+# YountVille_Demo
 
-Developed with Unreal Engine 5
+To play the game: 
+1.
+2. 
