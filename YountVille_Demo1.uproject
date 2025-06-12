@@ -12,10 +12,6 @@
 			]
 		},
 		{
-			"Name": "MultiUserClient",
-			"Enabled": true
-		},
-		{
 			"Name": "HDRIBackdrop",
 			"Enabled": true
 		},
@@ -33,13 +29,11 @@
 			"SupportedTargetPlatforms": [
 				"Win64"
 			]
-		},
-		{
-			"Name": "Fab",
-			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
-		"Windows"
+		"Windows",
+		"Linux",
+		"Mac"
 	]
 }
